@@ -1,0 +1,14 @@
+{
+  "name": "simple-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "ahiles3005",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "npx electron main.js"
+  },
+  "devDependencies": {
+    "electron": "^11.0.0-beta.13"
+  }
+}
